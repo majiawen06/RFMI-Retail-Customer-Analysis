@@ -57,3 +57,9 @@
 
 ---
 ## 📁 仓库文件目录说明
+RFMI-Retail-Customer-Analysis
+├── README.md
+├── sql/
+├── excel/
+├── dashboard/
+└── report/
