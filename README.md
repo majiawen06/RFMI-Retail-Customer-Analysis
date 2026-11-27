@@ -57,9 +57,12 @@
 
 ---
 ## 📁 仓库文件目录说明
-RFMI-Retail-Customer-Analysis
-├── README.md
-├── sql/
-├── excel/
-├── dashboard/
-└── report/
+
+```
+`RFMI-Retail-Customer-Analysis`
+`├── README.md # 项目介绍（当前文件）
+`├── sql/ # MySQL 脚本：清洗、指标计算、分层代码
+`├── excel/ # Excel 校验文件、透视表核对表
+`├── dashboard/ # PowerBI 看板截图（pbix 源文件可选存放）
+`└── report/ # 完整详细分析报告
+```
